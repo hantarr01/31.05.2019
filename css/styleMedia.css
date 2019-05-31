@@ -1,0 +1,315 @@
+@media (min-width: 1720px) and (max-width: 1920px) {
+
+.blockInCont{
+	margin-left:20%;
+	margin-right:20%; 
+	width:60%;
+}
+
+.leftBlockLinks{
+	width: 50%;
+}
+
+.rightBlockLinks{
+	width: 50%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:60%;
+	height: 430px;
+}
+
+.modal {
+	width: 30%;
+    height:60%;
+}
+
+}
+
+@media (min-width: 1520px) and (max-width: 1720px) {
+
+.blockInCont{
+	margin-left:20%;
+	margin-right:20%; 
+	width:60%;
+}
+
+.leftBlockLinks{
+	width: 50%;
+}
+
+.rightBlockLinks{
+	width: 50%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:67%;
+	height: 430px;
+}
+
+.modal {
+	width: 30%;
+    height:60%;
+}
+
+}
+
+@media (min-width: 1400px) and (max-width: 1520px) {
+
+.blockInCont{
+	margin-left:20%;
+	margin-right:20%; 
+	width:60%;
+}
+
+.leftBlockLinks{
+	width: 50%;
+}
+
+.rightBlockLinks{
+	width: 50%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:70%;
+	height: 430px;
+}
+
+.modal {
+	width: 30%;
+    height:60%;
+}
+
+}
+
+@media (min-width: 1000px) and (max-width: 1170px) {
+
+.blockInCont{
+	margin-left:10%;
+	margin-right:10%; 
+	width:80%;
+}
+
+.leftBlockLinks{
+	width: 50%;
+}
+
+.rightBlockLinks{
+	width: 50%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:65%;
+	height: 430px;
+}
+
+.modal {
+	width: 45%;
+    height:60%;
+}
+
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+
+.blockInCont{
+	margin-left:10%;
+	margin-right:10%; 
+	width:80%;
+}
+
+.leftBlockLinks{
+	width: 63%;
+}
+
+.rightBlockLinks{
+	width: 37%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:100%;
+	height: 430px;
+}
+
+.modal {
+	width: 45%;
+    height:60%;
+}
+
+.buttonEnterPlace{
+	margin-top:-45%;
+}
+
+.menPlace{
+	margin-top:-25%;
+}
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+
+.blockInCont{
+	margin-left:10%;
+	margin-right:10%; 
+	width:80%;
+}
+
+.leftBlockLinks{
+	width: 100%;
+}
+
+.rightBlockLinks{
+	width: 100%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:55%;
+	margin-right:24%; 
+	height: 430px;
+}
+
+.modal {
+	width: 50%;
+    height:60%;
+}
+
+.buttonEnterPlace{
+	margin-top:-45%;
+}
+
+.menPlace{
+	margin-top:-25%;
+}
+}
+
+@media (min-width: 500px) and (max-width: 600px) {
+
+.blockInCont{
+	margin-left:10%;
+	margin-right:10%; 
+	width:80%;
+}
+
+.leftBlockLinks{
+	width: 100%;
+}
+
+.rightBlockLinks{
+	width: 100%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:55%;
+	margin-right:24%; 
+	height: 430px;
+}
+
+.modal {
+	width: 50%;
+    height:60%;
+}
+
+.buttonEnterPlace{
+	margin-top:-45%;
+}
+
+.menPlace{
+	margin-top:-25%;
+}
+}
+
+@media (min-width: 400px) and (max-width: 500px) {
+
+.blockInCont{
+	margin-left:5%;
+	margin-right:5%; 
+	width:90%;
+}
+
+.leftBlockLinks{
+	width: 100%;
+}
+
+.rightBlockLinks{
+	width: 100%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:90%;
+	margin-right:5%; 
+	height: 430px;
+}
+
+.Links{
+	width: 100%;
+}
+
+.modal {
+	width: 50%;
+    height:60%;
+}
+
+.buttonEnterPlace{
+	margin-top:-45%;
+}
+
+.menPlace{
+	margin-top:-25%;
+}
+}
+
+@media (min-width: 200px) and (max-width: 400px) {
+
+.blockInCont{
+	margin-left:2.5%;
+	margin-right:2.5%; 
+	width:95%;
+}
+
+.leftBlockLinks{
+	width: 100%;
+}
+
+.rightBlockLinks{
+	width: 100%;
+}
+
+.backSubmPlace{
+	float: right;
+	margin-top:20px; 
+	width:100%;
+	height: 430px;
+}
+
+.Links{
+	width: 100%;
+}
+
+.modal {
+	width: 50%;
+    height:60%;
+}
+
+.buttonEnterPlace{
+	margin-top:-45%;
+}
+
+.menPlace{
+	margin-top:-25%;
+}
+}
